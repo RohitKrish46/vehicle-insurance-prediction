@@ -1,0 +1,13 @@
+artifact
+venv
+.venv
+env
+.gitignore
+logs
+template.py
+demo.py
+README.md
+LICENSE
+src.egg.-info
+vehicle_insurance_prediction.egg-info
+notebooks
